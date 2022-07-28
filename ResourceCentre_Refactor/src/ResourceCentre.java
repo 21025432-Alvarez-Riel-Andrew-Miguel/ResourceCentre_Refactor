@@ -35,6 +35,7 @@ public class ResourceCentre {
 				ResourceCentre.setHeader("ADD");			
 				itemTypeMenu();
 				//extract methods
+				// hi this is ben
 				int itemType = Helper.readInt("Enter option to select item type > ");
 
 				if (itemType == 1) {
